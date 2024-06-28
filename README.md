@@ -11,4 +11,4 @@ This application is giving excat locations pathways.it is user friendly.
 ![WhatsApp Image 2024-06-28 at 12 47 45 PM](https://github.com/aditya7843/Location-Reminder-App/assets/121948042/17011328-1398-43bb-b038-ab4c6b3df6d1)
 
 
-![WhatsApp Image 2024-06-28 at 11 55 34 AM (1) (1)](https://github.com/aditya7843/Location-Reminder-App/assets/121948042/f4081e1c-b464-4e67-9a47-3dd022588642)
+
