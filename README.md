@@ -6,6 +6,8 @@ This application gives reminder on basis of the location
 
 ![WhatsApp Image 2024-06-28 at 12 47 32 PM](https://github.com/aditya7843/Location-Reminder-App/assets/121948042/34670936-668f-400c-b476-aa5f64e5cbde)
 
+![WhatsApp Image 2024-06-28 at 11 55 32 AM (1)](https://github.com/aditya7843/Location-Reminder-App/assets/121948042/acf41e75-2086-4e9b-801e-2d9dc831375b)
+
 ![WhatsApp Image 2024-06-28 at 12 48 59 PM](https://github.com/aditya7843/Location-Reminder-App/assets/121948042/ddd1db59-b985-42ad-8e0f-36a0825cd15a)
 
 ![WhatsApp Image 2024-06-28 at 12 48 43 PM](https://github.com/aditya7843/Location-Reminder-App/assets/121948042/aaf2353f-0efe-4fca-bce1-c6e9745c3627)
@@ -13,6 +15,7 @@ This application gives reminder on basis of the location
 ![WhatsApp Image 2024-06-28 at 12 49 10 PM](https://github.com/aditya7843/Location-Reminder-App/assets/121948042/4c4f9f01-8a17-4282-b04a-01f5d9e28478)
 
 ![WhatsApp Image 2024-06-28 at 12 47 45 PM](https://github.com/aditya7843/Location-Reminder-App/assets/121948042/17011328-1398-43bb-b038-ab4c6b3df6d1)
+
 
 
 
