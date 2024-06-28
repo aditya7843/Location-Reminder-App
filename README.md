@@ -1,5 +1,7 @@
 #Frontend backend: Flutter
+
 #Database : Hive
+
 #Map : Open Street Map
 
 ![WhatsApp Image 2024-06-28 at 12 47 32 PM](https://github.com/aditya7843/Location-Reminder-App/assets/121948042/34670936-668f-400c-b476-aa5f64e5cbde)
